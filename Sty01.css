@@ -1,0 +1,35 @@
+h1{
+	color:blue;
+	text-align: center;
+}
+div{
+	background-color: gray;
+	width: 400px;
+	height: 200px;
+	padding: 20px;
+	margin: 30px;
+	font-family: Arial, sans-serif;
+	font-size: 30px;
+	font-weight:bold;
+	border: 3px solid black;
+}
+table{
+	margin: 10px;
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+td,th{
+	border: 1px solid black;
+	padding: 5px;
+}
+#id1{
+	color:green;
+	border: 3px solid red;
+	margin: 20px;
+}
+.c1{
+	font-family:Arial;
+	font-size:25px;
+	font-weight:bold;
+	color: green;
+}
